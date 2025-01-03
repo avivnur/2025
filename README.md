@@ -15,6 +15,12 @@ I found very interesting book: https://nostarch.com/r-rest-us, thinking to learn
 
 ![Cover](https://nostarch.com/sites/default/files/styles/uc_product_full/public/R_for_the_Rest_frontcover.png "Cover")
 
+## 3
+Missed a day here, not so productive.
+
+## 4
+Try to start learning Laravel?
+
 </details>
 
 
