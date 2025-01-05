@@ -32,10 +32,10 @@ echo "Welcome to PHP\n";
 - Viewed [A practical Introduction to GIS](https://www.youtube.com/watch?v=YSuRw6-kVuY)
 
 - W3School
- - HTML
- - CSS
- - Javascript
- - PHP
+  - HTML
+  - CSS
+  - Javascript
+  - PHP
 
 </details>
 
