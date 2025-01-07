@@ -78,6 +78,7 @@ Introduction to HTML by [Codecademy](codecademy.com)
 
 ## 7
 
+burnout 😵‍💫😵‍💫😵‍💫😵‍💫
 
 </details>
 
