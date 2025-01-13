@@ -99,6 +99,9 @@ NA
 ## 12
 
 Heavy workload for this week
+
+## 13
+lazy mode
 </details>
 
 
